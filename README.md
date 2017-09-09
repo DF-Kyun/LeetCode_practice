@@ -21,6 +21,10 @@
 
 [167. Two Sum II - Input array is sorted](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 
+[193. Valid Phone Numbers](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Shell/193.%20Valid%20Phone%20Numbers)
+
+[195. Tenth Line](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Shell/195.%20Tenth%20Line)
+
 [209. Minimum Size Subarray Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/209.%20Minimum%20Size%20Subarray%20Sum)
 
 [215. Kth Largest Element in an Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array)
