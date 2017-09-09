@@ -11,8 +11,8 @@
 
  class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        int[] arrs = new int[256];
-        int[] arrp = new int[256];
+        int[] arrs = new int[123];
+        int[] arrp = new int[123];
         List<Integer> res = new ArrayList<Integer>();
         
         int plength = p.length();
