@@ -29,6 +29,12 @@
 
 [215. Kth Largest Element in an Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array)
 
+[242. Valid Anagram](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/242.%20Valid%20Anagram)
+
+[349. Intersection of Two Arrays](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/349.%20Intersection%20of%20Two%20Arrays)
+
+[350. Intersection of Two Arrays II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/350.%20Intersection%20of%20Two%20Arrays%20II)
+
 [283. Move Zeroes](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/283.%20Move%20Zeroes)
 
 [344. Reverse String](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/344.%20Reverse%20String)
