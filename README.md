@@ -27,6 +27,8 @@
 
 [202. Happy Number](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/202.%20Happy%20Number)
 
+[205. Isomorphic Strings](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/205.%20Isomorphic%20Strings)
+
 [209. Minimum Size Subarray Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/209.%20Minimum%20Size%20Subarray%20Sum)
 
 [215. Kth Largest Element in an Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array)
