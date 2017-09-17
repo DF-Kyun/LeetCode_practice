@@ -9,9 +9,15 @@
 
 [15. 3Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/15.%203Sum)
 
+[16. 3Sum Closest](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/16.%203Sum%20Closest)
+
+[18. 4Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/18.%204Sum)
+
 [26. Remove Duplicates from Sorted Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 
 [27. Remove Element](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element)
+
+[49. Group Anagrams](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/49.%20Group%20Anagrams)
 
 [75. Sort Colors](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/75.%20Sort%20Colors)
 
@@ -37,6 +43,8 @@
 
 [215. Kth Largest Element in an Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array)
 
+[219. Contains Duplicate II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/219.%20Contains%20Duplicate%20II)
+
 [242. Valid Anagram](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/242.%20Valid%20Anagram)
 
 [283. Move Zeroes](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/283.%20Move%20Zeroes)
@@ -53,4 +61,8 @@
 
 [438. Find All Anagrams in a String](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/438.%20Find%20All%20Anagrams%20in%20a%20String)
 
+[447. Number of Boomerangs](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/447.%20Number%20of%20Boomerangs)
+
 [451. Sort Characters By Frequency](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/451.%20Sort%20Characters%20By%20Frequency)
+
+[454. 4Sum II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/454.%204Sum%20II)
