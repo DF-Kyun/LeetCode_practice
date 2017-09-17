@@ -29,6 +29,8 @@
 
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
+[149. Max Points on a Line](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/149.%20Max%20Points%20on%20a%20Line)
+
 [167. Two Sum II - Input array is sorted](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 
 [193. Valid Phone Numbers](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Shell/193.%20Valid%20Phone%20Numbers)
@@ -42,6 +44,8 @@
 [209. Minimum Size Subarray Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/209.%20Minimum%20Size%20Subarray%20Sum)
 
 [215. Kth Largest Element in an Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array)
+
+[217. Contains Duplicate](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/217.%20Contains%20Duplicate)
 
 [219. Contains Duplicate II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/219.%20Contains%20Duplicate%20II)
 
