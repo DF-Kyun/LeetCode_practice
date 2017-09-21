@@ -25,6 +25,10 @@
 
 [80. Remove Duplicates from Sorted Array II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
+[83. Remove Duplicates from Sorted List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)
+
+[86. Partition List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/86.%20Partition%20List)
+
 [88. Merge Sorted Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/88.%20Merge%20Sorted%20Array)
 
 [92. Reverse Linked List II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/92.%20Reverse%20Linked%20List%20II)
