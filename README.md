@@ -17,6 +17,10 @@
 
 [21. Merge Two Sorted Lists](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
+[24. Swap Nodes in Pairs](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/24.%20Swap%20Nodes%20in%20Pairs)
+
+[25. Reverse Nodes in k-Group](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/25.%20Reverse%20Nodes%20in%20k-Group)
+
 [26. Remove Duplicates from Sorted Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 
 [27. Remove Element](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element)
