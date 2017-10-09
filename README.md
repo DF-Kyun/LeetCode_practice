@@ -15,6 +15,8 @@
 
 [18. 4Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/18.%204Sum)
 
+[19. Remove Nth Node From End of List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
+
 [21. Merge Two Sorted Lists](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
 [24. Swap Nodes in Pairs](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/24.%20Swap%20Nodes%20in%20Pairs)
@@ -26,6 +28,8 @@
 [27. Remove Element](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element)
 
 [49. Group Anagrams](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/49.%20Group%20Anagrams)
+
+[61. Rotate List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/61.%20Rotate%20List)
 
 [75. Sort Colors](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/75.%20Sort%20Colors)
 
@@ -45,7 +49,11 @@
 
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
+[143. Reorder List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/143.%20Reorder%20List)
+
 [147. Insertion Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/147.%20Insertion%20Sort%20List)
+
+[148. Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/148.%20Sort%20List)
 
 [149. Max Points on a Line](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/149.%20Max%20Points%20on%20a%20Line)
 
