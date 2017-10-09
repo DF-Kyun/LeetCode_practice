@@ -45,6 +45,8 @@
 
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
+[147. Insertion Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/147.%20Insertion%20Sort%20List)
+
 [149. Max Points on a Line](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/149.%20Max%20Points%20on%20a%20Line)
 
 [167. Two Sum II - Input array is sorted](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
@@ -68,6 +70,8 @@
 [217. Contains Duplicate](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/217.%20Contains%20Duplicate)
 
 [219. Contains Duplicate II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/219.%20Contains%20Duplicate%20II)
+
+[234. Palindrome Linked List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/234.%20Palindrome%20Linked%20List)
 
 [237. Delete Node in a Linked List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)
 
