@@ -17,6 +17,8 @@
 
 [19. Remove Nth Node From End of List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 
+[20. Valid Parentheses](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Stack/20.%20Valid%20Parentheses)
+
 [21. Merge Two Sorted Lists](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
 [24. Swap Nodes in Pairs](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/24.%20Swap%20Nodes%20in%20Pairs)
@@ -30,6 +32,8 @@
 [49. Group Anagrams](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/49.%20Group%20Anagrams)
 
 [61. Rotate List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/61.%20Rotate%20List)
+
+[71. Simplify Path](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Stack/71.%20Simplify%20Path)
 
 [75. Sort Colors](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/75.%20Sort%20Colors)
 
@@ -56,6 +60,8 @@
 [148. Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/148.%20Sort%20List)
 
 [149. Max Points on a Line](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/149.%20Max%20Points%20on%20a%20Line)
+
+[150. Evaluate Reverse Polish Notation](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation)
 
 [167. Two Sum II - Input array is sorted](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 
