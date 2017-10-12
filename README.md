@@ -57,6 +57,10 @@
 
 [143. Reorder List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/143.%20Reorder%20List)
 
+[144. Binary Tree Preorder Traversal](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal)
+
+[145. Binary Tree Postorder Traversal](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal)
+
 [147. Insertion Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/147.%20Insertion%20Sort%20List)
 
 [148. Sort List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/148.%20Sort%20List)
