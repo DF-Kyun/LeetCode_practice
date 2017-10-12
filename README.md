@@ -51,6 +51,8 @@
 
 [92. Reverse Linked List II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/92.%20Reverse%20Linked%20List%20II)
 
+[94. Binary Tree Inorder Traversal](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
+
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
 [143. Reorder List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/143.%20Reorder%20List)
