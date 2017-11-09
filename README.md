@@ -21,6 +21,8 @@
 
 [21. Merge Two Sorted Lists](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
+[23. Merge k Sorted Lists](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/23.%20Merge%20k%20Sorted%20Lists)
+
 [24. Swap Nodes in Pairs](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/24.%20Swap%20Nodes%20in%20Pairs)
 
 [25. Reverse Nodes in k-Group](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/25.%20Reverse%20Nodes%20in%20k-Group)
