@@ -61,6 +61,8 @@
 
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
+[127. Word Ladder](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/127.%20Word%20Ladder)
+
 [143. Reorder List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/143.%20Reorder%20List)
 
 [144. Binary Tree Preorder Traversal](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal)
@@ -118,6 +120,8 @@
 [344. Reverse String](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/344.%20Reverse%20String)
 
 [345. Reverse Vowels of a String](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/345.%20Reverse%20Vowels%20of%20a%20String)
+
+[347. Top K Frequent Elements](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/347.%20Top%20K%20Frequent%20Elements)
 
 [349. Intersection of Two Arrays](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/349.%20Intersection%20of%20Two%20Arrays)
 
