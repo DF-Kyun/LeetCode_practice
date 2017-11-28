@@ -71,6 +71,8 @@
 
 [111. Minimum Depth of Binary Tree](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree)
 
+[112. Path Sum](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/112.%20Path%20Sum)
+
 [125. Valid Palindrome](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/125.%20Valid%20Palindrome)
 
 [126. Word Ladder II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/126.%20Word%20Ladder%20II)
@@ -144,6 +146,8 @@
 [349. Intersection of Two Arrays](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/349.%20Intersection%20of%20Two%20Arrays)
 
 [350. Intersection of Two Arrays II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/350.%20Intersection%20of%20Two%20Arrays%20II)
+
+[404. Sum of Left Leaves](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/404.%20Sum%20of%20Left%20Leaves)
 
 [438. Find All Anagrams in a String](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/438.%20Find%20All%20Anagrams%20in%20a%20String)
 
