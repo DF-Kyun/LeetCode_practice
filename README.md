@@ -127,6 +127,8 @@
 
 [242. Valid Anagram](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/242.%20Valid%20Anagram)
 
+[257. Binary Tree Paths](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/257.%20Binary%20Tree%20Paths)
+
 [279. Perfect Squares](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/279.%20Perfect%20Squares)
 
 [283. Move Zeroes](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/283.%20Move%20Zeroes)
