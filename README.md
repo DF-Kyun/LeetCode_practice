@@ -33,6 +33,10 @@
 
 [27. Remove Element](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element)
 
+[46. Permutations](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/46.%20Permutations)
+
+[47. Permutations II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/47.%20Permutations%20II)
+
 [49. Group Anagrams](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/49.%20Group%20Anagrams)
 
 [61. Rotate List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/61.%20Rotate%20List)
@@ -54,6 +58,8 @@
 [88. Merge Sorted Array](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/88.%20Merge%20Sorted%20Array)
 
 [92. Reverse Linked List II](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/92.%20Reverse%20Linked%20List%20II)
+
+[93. Restore IP Addresses](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/93.%20Restore%20IP%20Addresses)
 
 [94. Binary Tree Inorder Traversal](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
@@ -88,6 +94,8 @@
 [127. Word Ladder](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/127.%20Word%20Ladder)
 
 [129. Sum Root to Leaf Numbers](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers)
+
+[131. Palindrome Partitioning](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/131.%20Palindrome%20Partitioning)
 
 [143. Reorder List](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/143.%20Reorder%20List)
 
