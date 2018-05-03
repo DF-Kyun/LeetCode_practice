@@ -74,7 +74,7 @@ Name | Java | Python
 |209. Minimum Size Subarray Sum | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/209.%20Minimum%20Size%20Subarray%20Sum) | [Python]|
 |215. Kth Largest Element in an Array | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array) | [Python]|
 |216. Combination Sum III | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/216.%20Combination%20Sum%20III) | [Python]|
-|217. Contains Duplicate | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/217.%20Contains%20Duplicate) | [Python]|
+|217. Contains Duplicate | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/217.%20Contains%20Duplicate) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/217.%20Contains%20Duplicate)|
 |219. Contains Duplicate II | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/219.%20Contains%20Duplicate%20II) | [Python]|
 |222. Count Complete Tree Nodes | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) | [Python]|
 |226. Invert Binary Tree | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/226.%20Invert%20Binary%20Tree) | [Python]|
