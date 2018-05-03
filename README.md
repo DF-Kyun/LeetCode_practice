@@ -18,7 +18,7 @@ Name | Java | Python
 |24. Swap Nodes in Pairs | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/24.%20Swap%20Nodes%20in%20Pairs) | [Python]|
 |25. Reverse Nodes in k-Group | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/25.%20Reverse%20Nodes%20in%20k-Group) | [Python]|
 |26. Remove Duplicates from Sorted Array | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | [Python]|
-|27. Remove Element | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element) | [Python]|
+|27. Remove Element | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/27.%20Remove%20Element)|
 |39. Combination Sum | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/39.%20Combination%20Sum) | [Python]|
 |40. Combination Sum II | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/40.%20Combination%20Sum%20II) | [Python]|
 |46. Permutations | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/46.%20Permutations) | [Python]|
