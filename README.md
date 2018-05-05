@@ -67,10 +67,10 @@ Name | Java | Python
 |193. Valid Phone Numbers | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Shell/193.%20Valid%20Phone%20Numbers) | [Python]|
 |195. Tenth Line | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Shell/195.%20Tenth%20Line) | [Python]|
 |199. Binary Tree Right Side View | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Queue/199.%20Binary%20Tree%20Right%20Side%20View) | [Python]|
-|202. Happy Number | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/202.%20Happy%20Number) | [Python]|
-|203. Remove Linked List Elements | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/203.%20Remove%20Linked%20List%20Elements) | [Python]|
-|205. Isomorphic Strings | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/205.%20Isomorphic%20Strings) | [Python]|
-|206. Reverse Linked List | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/206.%20Reverse%20Linked%20List) | [Python]|
+|202. Happy Number | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/202.%20Happy%20Number) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/202.%20Happy%20Number)|
+|203. Remove Linked List Elements | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/203.%20Remove%20Linked%20List%20Elements) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/203.%20Remove%20Linked%20List%20Elements)|
+|205. Isomorphic Strings | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/205.%20Isomorphic%20Strings) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/205.%20Isomorphic%20Strings)|
+|206. Reverse Linked List | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/206.%20Reverse%20Linked%20List) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/206.%20Reverse%20Linked%20List)|
 |209. Minimum Size Subarray Sum | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/209.%20Minimum%20Size%20Subarray%20Sum) | [Python]|
 |215. Kth Largest Element in an Array | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/215.%20Kth%20Largest%20Element%20in%20an%20Array) | [Python]|
 |216. Combination Sum III | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Tree/216.%20Combination%20Sum%20III) | [Python]|
