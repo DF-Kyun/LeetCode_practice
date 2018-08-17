@@ -5,7 +5,7 @@ Name | Java | Python
 |- | :-: | -:|
 |1. Two Sum | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/1.%20Two%20Sum) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/1.%20Two%20Sum)|
 |2. Add Two Numbers | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/2.%20Add%20Two%20Numbers) | [Python](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Linked%20%20List/2.%20Add%20Two%20Numbers)|
-|3. Longest Substring Without Repeating Characters | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | [Python]|
+|3. Longest Substring Without Repeating Characters | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | [Python](https://github.com/DF-Kyun/LeetCode_practice/blob/master/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters)|
 |11. Container With Most Water | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Array/11.%20Container%20With%20Most%20Water) | [Python]|
 |15. 3Sum | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/15.%203Sum) | [Python]|
 |16. 3Sum Closest | [Java](https://github.com/DF-Kyun/LeetCode_practice/tree/master/Table/16.%203Sum%20Closest) | [Python]|
